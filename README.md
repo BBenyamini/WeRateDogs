@@ -1,4 +1,4 @@
-"#WeRateDogs"
+#WeRateDogs
 
 The main objective of this project was to put into practice lessons covered in course 4 as part
 of the Udacity Data Analyst Nanodegree program. In this project, I wrangled the Twitter data
